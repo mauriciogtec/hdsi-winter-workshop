@@ -13,7 +13,7 @@ Have fun 🤩!
 
 * [Pre-Assignment: API Setup](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/pre-assignment.ipynb). Setting up the OpenAI key and Hugging Face token.
 * [Part 1: Introduction to Agentic Frameworks](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/llm-agents-part1.ipynb). Agentic design concepts such as reasoning, memory, planning, tool usage, and coding agents. First, it demonstrates various applications in few lines using the `smolagents` library. Then it implements a ReAct tool-using agent from scratch using only a completion API.
-* [Part 2: Grounding Agents with Fine-tuning and RL](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/llm-agents-part2.ipynb) Agent grounding via supervised fine-tuning and reinforcement learning using the Hugging Face ecosystem 🤗 and pararemeter efficient tuning with LORA.
+* [Part 2: Grounding Agents with Fine-tuning and RL](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/llm-agents-part2.ipynb) Agent grounding via supervised fine-tuning and reinforcement learning using the Hugging Face ecosystem 🤗 and parameter efficient tuning with LORA.
 * [Slides](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/hdsi-winter-workshop-slides.pdf). Introductory and closing slides from the live session.
 
 
