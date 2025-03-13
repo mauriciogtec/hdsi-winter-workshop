@@ -1,19 +1,20 @@
 
-# Welcome to the HDSI Winter Workshop on LLMs as Autonomous Agents
+# Welcome to the HDSI  Workshop on LLMs as Autonomous Agents
 
 <img src="https://drive.google.com/uc?export=view&id=1q4SGPmn6sWQhskt4D-1D09q_6C9FDz_L" alt="drawing" width="400"/>
 
-Expected completion time: 3 hours
+Here are the course materials from the "LLMs as Autonomous Agents" tutorial session at the HDSI Winter  Workshop on March 7, 2025. 
 
-This tutorial has three parts:
+All the notebooks have the Open in Colab button. Feel free to use and share even if you did not attend the workshop. Anyone can learn from them. Suggestions are welcome via Github issues and PRs.
 
-* [Pre-Assignment: API Setup](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/pre-assignment.ipynb)
-* [Part 1: Introduction to Agentic Frameworks](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/llm-agents-part1.ipynb)
-* [Part 2: Part II: Grounding Agents with Fine-tuning and RL](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/llm-agents-part2.ipynb)
+Have fun 🤩!
 
-Slides:
 
-* [Slides](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/hdsi-winter-workshop-slides.pdf)
+
+* [Pre-Assignment: API Setup](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/pre-assignment.ipynb). Setting up the OpenAI key and Hugging Face token.
+* [Part 1: Introduction to Agentic Frameworks](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/llm-agents-part1.ipynb). Agentic design concepts such as reasoning, memory, planning, tool usage, and coding agents. First, it demonstrates various applications in few lines using the `smolagents` library. Then it implements a ReAct tool-using agent from scratch using only a completion API.
+* [Part 2: Part II: Grounding Agents with Fine-tuning and RL](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/llm-agents-part2.ipynb) Agent grounding via supervised fine-tuning and reinforcement learning using the Hugging Face ecosystem 🤗 and pararemeter efficient tuning with LORA.
+* [Slides](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/hdsi-winter-workshop-slides.pdf). Introductory and closing slides from the live session.
 
 
 <br>
