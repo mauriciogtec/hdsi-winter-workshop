@@ -3,7 +3,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1q4SGPmn6sWQhskt4D-1D09q_6C9FDz_L" alt="drawing" width="400"/>
 
-Expected completion time: 2.5 hours
+Expected completion time: 3 hours
 
 This tutorial has three parts:
 
